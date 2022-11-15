@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Ben Berkun namı diğer Cef 18 yaşındayım, 2017 senesinden beri website geliştiricisiyim ve eğlence olarak discord botu yapıyorum.
+### Hi there 👋, Ben Berkun namı diğer Cef 18 yaşındayım, 2017 senesinden beri website geliştiricisiyim ve eğlence olarak discord botu yapıyorum.
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
@@ -19,7 +17,7 @@ const Sudhan = {
 #### Languages & Syntax:
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?height=26" />
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?height=26" />
-<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?height=26" />
+<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23ff1500&height=26" />
 <img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/simple-icons:typescript.svg?height=26" />
 <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?height=26" />
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/simple-icons:python.svg?height=26" />

@@ -50,8 +50,4 @@ const Cef = {
 
 <h2 align="center"> ✨ Discord ✨</h2>
 
-<br>
-
-<div style="align-items: center;">
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1041750305131470888?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1041750305131470888)
-</div>

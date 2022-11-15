@@ -27,12 +27,15 @@ const Sudhan = {
 #### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="Sublime Text" width="26px" src="https://api.iconify.design/simple-icons:sublimetext.svg?color=%23fa5d02&height=26" />
+<img align="left" alt="Mongo" width="26px" src="https://api.iconify.design/akar-icons:mongodb.svg?color=%23fa5d02&height=26" />
+<img align="left" alt="Firebase" width="26px" src="https://api.iconify.design/akar-icons:firebase.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="React" width="26px" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23fa5d02&height=26" />
 
 <br>
 
+<!--
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkxn&theme=tokyonight">
@@ -43,5 +46,6 @@ const Sudhan = {
     <img src="https://github-readme-stats.vercel.app/api?username=berkxn&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 </details>
+-->
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1041750305131470888?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1041750305131470888)

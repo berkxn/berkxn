@@ -3,7 +3,7 @@
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const Sudhan = {
+const Cef = {
   name: "Berkun",
   age: "18",
   country: "Turkey",
@@ -27,8 +27,8 @@ const Sudhan = {
 #### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="Sublime Text" width="26px" src="https://api.iconify.design/simple-icons:sublimetext.svg?color=%23fa5d02&height=26" />
-<img align="left" alt="Mongo" width="26px" src="https://api.iconify.design/akar-icons:mongodb.svg?color=%23fa5d02&height=26" />
-<img align="left" alt="Firebase" width="26px" src="https://api.iconify.design/akar-icons:firebase.svg?color=%23fa5d02&height=26" />
+<img align="left" alt="Mongo" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23fa5d02&height=26" />
+<img align="left" alt="Firebase" width="26px" src="https://api.iconify.design/simple-icons:firebase.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23fa5d02&height=26" />
 <img align="left" alt="React" width="26px" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23fa5d02&height=26" />

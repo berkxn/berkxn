@@ -6,15 +6,12 @@ Ben Berkun namı diğer Cef 18 yaşındayım, 2017 senesinden beri website geli�
 
 ```js
 const Sudhan = {
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 60,
-    TotalCommits: 8831,
-    Stars: 1638,
-    Repositories: {
-       Created: 122,
-       Contributed: 18
-    },
+  name: "Berkun",
+  age: "18",
+  country: "Turkey",
+  city: "İstanbul",
+  job: "student",
+  sex: "male"
 };
 ```
 

@@ -1,11 +1,11 @@
-### Hi there 👋, Ben Berkun namı diğer Cef 18 yaşındayım, 2017 senesinden beri website geliştiricisiyim ve eğlence olarak discord botu yapıyorum.
+### Hi there 👋, Ben Berkun namı diğer tise 16 yaşındayım, 2017 senesinden beri website geliştiricisiyim ve eğlence olarak discord botu yapıyorum.
   
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
 const Cef = {
   name: "Berkun",
-  age: "18",
+  age: "16",
   country: "Turkey",
   city: "İstanbul",
   job: "student",
